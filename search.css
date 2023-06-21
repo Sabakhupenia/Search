@@ -1,0 +1,111 @@
+.other-pages {
+  position: fixed;
+  top:10px;
+  right: 180px;
+  font-size: 25px;
+}
+a:hover {
+  color:black
+}
+
+.advancedtxt {
+  position: fixed;
+  top:10px;
+  right: 10px;
+  font-size: 25px;
+}
+
+#google-logo {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.centered {
+  padding: 10px 10;
+  text-align: center;
+  
+}
+#foo {
+  display: flex;
+  border-radius: 25px;
+  border: 3px solid lightgray;
+  margin: 0 auto;
+  padding-top: 6px;
+  width: 530px;
+  height:35px;
+  position: relative;
+}
+.submit-button {
+  margin: 12px;
+}
+input[type="submit"]:hover{
+  border: 1px solid black
+}
+.submit-button>input{
+  padding: 10px 15px;
+  border: 0;
+  color: revert;
+  border-radius: 7px;
+}
+
+.image-sarch {
+  position: fixed;
+  top:10px;
+  right: 50px;
+  font-size: 25px;
+}
+
+#txt {
+  text-align: center;
+  margin-top: -50px;
+  margin-left: 250px;
+  color:#0080FF;
+  font-size: small;
+}
+.advancedh {
+  color:red;
+  margin-left:40px;
+  height:60px;
+  font-style: inherit;
+}
+
+#google-bottun {
+  width:100px;
+}
+.advanced {
+  margin-left:40px;
+  font-size: medium;
+  font-family: Arial, sans-serif;
+  size: 14px;
+  font-style: inherit;
+}
+.title-texts {
+  margin-left:40px;
+}
+
+.advance-input  {
+  display:table-row;
+
+}
+
+input[name="as_q"]{
+  margin-left: 7rem;
+}
+input[name="as_epq"]{
+  margin-left: 2.9rem;
+}
+input[name="as_oq"]{
+  margin-left: 5.4rem;
+}
+
+input[name="as_eq"]{
+  margin-left: 4.9rem;
+}
+input[name="as_nlo"]{
+  width: 68px;
+  margin-left: 69.8px;
+}
+
+input[name="as_nhi"]{
+  width: 69.8px;
+}
